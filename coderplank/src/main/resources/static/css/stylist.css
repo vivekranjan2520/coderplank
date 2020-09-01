@@ -1,0 +1,104 @@
+body{
+font-family: 'Titillium Web', sans-serif;
+	}
+h1,h2,h3,h4,h5{
+	font-weight:400;
+}
+.navbar-brand img{
+
+	height:30px;
+} 
+.navbar-brand{
+
+	font-weight:400;
+	font-size:1.5rem;
+}
+
+input{
+background-color:rgba(0, 0, 0, 0.1)!important;
+}
+
+
+
+/* hero section*/
+.hero-post{
+	position:relative;
+	margin-bottom: 5px;
+}
+
+.hero-post-badges{
+position:absolute;
+top:20px;
+right: 20px;
+
+}
+.hero-post-badges>a{
+	display:inline-block;
+	background-color:#7d05f5;
+	color:white;
+    font-size:0.8rem;
+     text-decoration:none;
+
+}
+ .tec a {
+	
+	background-color:#08c91f;
+	
+}
+.hero-post-content {
+	
+	
+	position:absolute;
+	bottom:20px;
+}
+.hero-post-content a h5{
+	
+	margin-left:9px;
+	text-decoration:none;
+}
+.hero-post-content a {
+	
+	
+	text-decoration:none;
+}
+.hero-post-content img{
+border:2px solid #66FCF1;
+} 
+.hero-post-content h3 a{
+	text-decoration:none;
+	
+	color:#6699ff;
+}
+.blog-post .badge>a{
+	display:inline-block;
+	background-color:#7d05f5;
+	color: white;
+    font-size:0.8rem;
+    padding-left:5px;
+    padding-right:5px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    text-decoration:none;
+}
+.badge-link a{
+	text-decoration:none;
+}
+ .badge-link #web b:hover{
+	color: #7d05f5;
+	
+}
+.badge-link #pro b:hover{
+	color: #08c91f;
+	
+}
+.badge-link #js b:hover{
+	color: #ad386b;
+	
+}
+.badge-link #jav b:hover{
+	color: DodgerBlue;
+	
+}
+.blog-post #alink a {
+	text-decoration:none;
+}
